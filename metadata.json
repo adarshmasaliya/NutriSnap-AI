@@ -1,0 +1,7 @@
+{
+  "name": "NutriSnap AI",
+  "description": "AI-powered nutrition tracker that analyzes food images to estimate calories, macros, and vitamins.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
